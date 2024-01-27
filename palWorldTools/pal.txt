@@ -1,0 +1,11 @@
+https://developer.valvesoftware.com/wiki/SteamCMD
+https://tech.palworldgame.com/optimize-game-balance
+python fix-host-save.py .\uesave.exe .\savefiles 90522A7C000000000000000000000000 00000000000000000000000000000001
+
+121.40.120.147
+/shutdown
+/save
+/adminpassword
+/Info
+/TeleportToMe 
+/TeleportToPlayer 
